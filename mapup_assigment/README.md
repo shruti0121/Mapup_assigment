@@ -71,4 +71,7 @@ To test the API using Postman:
   ]
 }
 ```
-- Send the request and check the response for the intersecting lines.
+- Send the request and check the response for the intersecting lines. 
+
+
+api documentation - https://documenter.getpostman.com/view/28558081/2s946feYbZ
