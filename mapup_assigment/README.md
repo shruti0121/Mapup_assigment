@@ -11,7 +11,7 @@ The Intersections API is a Node.js application that provides an API endpoint for
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adithya-Adi/intersections-api.git
+   git clone https://github.com/shruti0121/Mapup_assigment.git
    ```
 2. Install the dependencies:
    ```bash
@@ -26,7 +26,7 @@ The Intersections API is a Node.js application that provides an API endpoint for
    ```bash
    npm start
    ```
-  The API server will start running on http://localhost:3000.
+  The API server will start running on http://localhost:3000
 
 ## API Endpoint: http://localhost:3000/api/intersections
 This endpoint accepts a GeoJSON linestring in the request body and finds intersecting lines from the set of randomly spread lines.
